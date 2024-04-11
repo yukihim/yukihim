@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Engineering
 - 📫 How to reach me jacklorien@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Fun fact is fact
+- ⚡ Fun fact: Fun fact is fact but with fun
 
 <!---
 yukihim/yukihim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
