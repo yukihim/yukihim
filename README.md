@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yukihim
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science - fourth year
-- 💞️ I’m looking to collaborate on Full-Stack development or Data Engineering
+- 💞️ I’m looking to collaborate on Full-Stack development or AI Engineer
 - 📫 How to reach me jacklorien@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Fun fact is fact but with fun
