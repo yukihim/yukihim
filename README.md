@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yukihim
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science - fourth year
-- 💞️ I’m looking to collaborate on Full-Stack development or AI Engineer
+- 🌱 I’ve finished Computer Science in Ho Chi Minh University of Technology
+- 💞️ I’m looking to collaborate on Software Engineer or LLM Engineer
 - 📫 How to reach me phamlequanwork@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Fun fact is fact but with fun
+- ⚡ Fun fact: I get what i wanted
 
 <!---
 yukihim/yukihim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
