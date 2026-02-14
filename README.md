@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yukihim
-- 👀 I’m interested in Computer Science
-- 🌱 I’ve finished Computer Science in Ho Chi Minh University of Technology
-- 💞️ I’m looking to work on as a Software Engineer
+- 👋 Hi, I’m Quân
+- 👀 I’m interested in building large scale projects
+- 🌱 I’ve finished Computer Science in Ho Chi Minh University of Technology (CS major)
+- 💞️ I’m currently looking for jobs to work as a Software Engineer
 - 📫 How to reach me phamlequanwork@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I get what i wanted
