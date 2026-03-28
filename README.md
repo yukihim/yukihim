@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Le%20Quan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quan-pham-le/) 
 [![GitHub followers](https://img.shields.io/github/followers/yukihim?label=Follows&style=flat-square&logo=github&logoColor=white)](https://github.com/yukihim/?tab=follow) 
-[![Gmail](https://img.shields.io/badge/Gmail-phamlequanwork-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phamlequanwork@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-phamlequanwork@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phamlequanwork@gmail.com)
 
 
 <!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
