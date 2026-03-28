@@ -1,6 +1,6 @@
 # 👨🏻‍💻 [Phạm Lê Quân](https://www.linkedin.com/in/quan-pham-le/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/quan-pham-le/)](https://www.linkedin.com/in/quan-pham-le/) [![GitHub followers](https://img.shields.io/github/followers/yukihim?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:phamlequanwork@gmail.com)](mailto:phamlequanwork@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pham%20Le%20Quan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/quan-pham-le/)](https://www.linkedin.com/in/quan-pham-le/) [![GitHub followers](https://img.shields.io/github/followers/yukihim?label=Follow&style=social)](https://github.com/yukihim/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-phamlequanwork-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:phamlequanwork@gmail.com)](mailto:phamlequanwork@gmail.com) 
 
 
 <!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
