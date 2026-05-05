@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Phạm Lê Quân](https://www.linkedin.com/in/quan-pham-le/)
+# 👨🏻‍💻 [Quân (Josue) Phạm Lê](https://www.linkedin.com/in/quan-pham-le/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Le%20Quan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quan-pham-le/) 
 [![GitHub followers](https://img.shields.io/github/followers/yukihim?label=Follows&style=flat-square&logo=github&logoColor=white)](https://github.com/yukihim/?tab=follow) 
